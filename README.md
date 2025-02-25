@@ -54,6 +54,14 @@ src = "https://github.com/user-attachments/assets/ae4481a1-4b78-4391-8939-75156c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
+/>
 <br>
 
 <img src ="https://github.com/user-attachments/assets/3a0c738c-cdca-4d04-a76e-83a7c1819c81" style = "width: 100px; height:auto;"/>
