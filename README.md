@@ -4,7 +4,7 @@
 <br>**`Design e Editor de Video`**
 
 
-Me chamo Arthur, Tenho 19 Anos e moro no DF
+Me chamo Arthur, Tenho 21 Anos e moro no DF
 *(Distrito Federal)*. Estudo na <font color=	#1E90FF>UDF (Centro Universitário do Distrito Federal)</font>, sou envolvido no mundo tecnologico desde meus 7 anos de idade, tenho alguns projetos como jogos e ate apps
 (projetos da faculdade)
 
